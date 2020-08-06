@@ -1,7 +1,5 @@
 ### Resume
 ---
-  console.log("Hello World!")
----
 ### Skill Highlights
 ---
 + Web Designing(HTML,CSS)
@@ -21,4 +19,5 @@
 + Pianist
 ### Working Experience
 + Now i am a Bachelors students in computer engineering
- 
+### Quera Account
++ 
