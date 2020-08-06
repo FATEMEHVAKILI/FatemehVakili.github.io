@@ -15,7 +15,7 @@
 + Bachelor of science: Computer Engineering
  -2018, Payam Noor University of Tehran
 ### Favorites
-+ Fluent in 3 Languages: EN,TR,AZ
++ Fluent in 3 Languages: English,Turkish, Azerbaican
 + Pianist
 ### Working Experience
 + Now i am a Bachelors students in computer engineering
