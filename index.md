@@ -20,8 +20,8 @@
 ### Working Experience
 + Now i am a Bachelors students in computer engineering
 ### Social Media
-+ Facebook.com/fatemehvkl1
-+ Twitter.com/fatemehvkl1
-+ Instagram.com/fatemehvkl1
++ https://Facebook.com/fatemehvkl1
++ https://Twitter.com/fatemehvkl1
++ https://Instagram.com/fatemehvkl1
 ### Quera Account
 + https://quera.ir/profile/FATEMEHVAKILI
