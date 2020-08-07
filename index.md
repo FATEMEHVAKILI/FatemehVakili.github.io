@@ -20,7 +20,8 @@
 + Pianist
 ### Favorites
 ---
-+ Fitness, Music
++ Fitness
++ Music
 ### Working Experience
 ---
 + Now i am a Bachelors students in computer engineering
