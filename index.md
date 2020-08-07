@@ -18,6 +18,9 @@
 ---
 + Fluent in 3 Languages: English,Turkish, Azerbaican
 + Pianist
+### Favorites
+---
++ Fitness, Music
 ### Working Experience
 ---
 + Now i am a Bachelors students in computer engineering
