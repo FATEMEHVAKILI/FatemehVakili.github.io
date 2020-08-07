@@ -14,7 +14,7 @@
  -2016, Islamic Azad University
 + Bachelor of science: Computer Engineering
  -2018, Payam Noor University of Tehran
-### Favorites
+### Other Skills
 ---
 + Fluent in 3 Languages: English,Turkish, Azerbaican
 + Pianist
