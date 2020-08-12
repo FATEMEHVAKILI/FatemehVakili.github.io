@@ -1,5 +1,3 @@
-### Resume
----
 ### Skill Highlights
 ---
 + Web Designing(HTML,CSS)
