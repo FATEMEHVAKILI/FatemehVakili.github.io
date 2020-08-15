@@ -1,7 +1,8 @@
-### Resume
----<img src="uniii.jpg"
-     alt="hamid"
+<img src="pic.jpg"
+     alt="personal-pic"
      style="float: left; margin-right: 10px;" />
+### Resume
+---
 ### Skill Highlights
 ---
 + Web Designing(HTML,CSS)
