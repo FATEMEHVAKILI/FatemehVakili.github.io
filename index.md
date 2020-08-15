@@ -1,6 +1,6 @@
 ### Resume
----<img src="pic.jpeg" src="H" width="500" height="600"
-     style="float:left" />
+---<img src="pic.jpeg" 
+     style="" />
 ### Skill Highlights
 ---
 + Web Designing(HTML,CSS)
