@@ -1,5 +1,4 @@
-<img src="pic.jpg"
-     alt="personal-pic"
+<img src="pic.jpg" width="500" height="600"
      style="" />
 ### Resume
 ---
