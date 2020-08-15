@@ -1,7 +1,6 @@
 ### FatemehVakili
 ---<img src="pic.jpeg" 
      style="" />
-     sth to test maybe to rest maynot the best but fell the like aguest 
 ### Skill Highlights
 ---
 + Web Designing(HTML,CSS)
