@@ -1,6 +1,6 @@
 <img src="pic.jpg"
      alt="personal-pic"
-     style="float: left; margin-right: 10px;" />
+     style="" />
 ### Resume
 ---
 ### Skill Highlights
