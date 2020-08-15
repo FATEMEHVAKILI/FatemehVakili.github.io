@@ -1,5 +1,5 @@
-<img src="pic.jpeg" src="H"
-     style="" />
+<img src="pic.jpeg" src="H" width="500" height="600"
+     style="float:left" />
 ### Resume
 ---
 ### Skill Highlights
