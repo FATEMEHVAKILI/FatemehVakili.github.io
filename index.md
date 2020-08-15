@@ -1,4 +1,4 @@
-<img src="pic.jpg" width="500" height="600"
+<img src="pic.jpeg" src="H"
      style="" />
 ### Resume
 ---
