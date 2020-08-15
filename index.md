@@ -1,5 +1,7 @@
 ### Resume
----
+---<img src="uniii.jpg"
+     alt="hamid"
+     style="float: left; margin-right: 10px;" />
 ### Skill Highlights
 ---
 + Web Designing(HTML,CSS)
