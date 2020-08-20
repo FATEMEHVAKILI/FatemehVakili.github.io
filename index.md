@@ -37,3 +37,5 @@
 + https://quera.ir/profile/FATEMEHVAKILI
 ### عناوین
 + عضو انجمن علمی مهندسی دانشگاه پیام نور
+### دوره های آموزشی وکارگاه ها
++ Network plus
