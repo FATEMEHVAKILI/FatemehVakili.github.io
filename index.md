@@ -8,6 +8,9 @@
 + Programming Languages(Python,C++,C)
 + Network Security
 + Photoshop
+### عناوین
+---
++ عضو انجمن علمی مهندسی دانشگاه پیام نور
 ### Education
 ---
 + Diploma: Fadak High School
@@ -35,9 +38,6 @@
 ### Quera Account
 ---
 + https://quera.ir/profile/FATEMEHVAKILI
-### عناوین
----
-+ عضو انجمن علمی مهندسی دانشگاه پیام نور
 ### دوره های آموزشی وکارگاه ها
 ---
 + Network plus
