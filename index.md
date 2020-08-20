@@ -1,6 +1,7 @@
 ### FatemehVakili
 ---<img src="pic.jpeg" 
      style="" />
++ سلام! من فاطمه وکیلی هستم، متولد بهمن 76 و در حال حاضر دانشجوی رشته مهندسی کامپیوتر در دانشگاه پیام نور و  همچنین طراح وبسایت هستم.
 ### Skill Highlights
 ---
 + Web Designing(HTML,CSS)
