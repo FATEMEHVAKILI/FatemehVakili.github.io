@@ -1,6 +1,5 @@
 ### FatemehVakili
 ---<img src="pic.jpeg">
-<link rel="stylesheet" href="styles.css">
 + سلام! من فاطمه وکیلی هستم، متولد بهمن 76 و در حال حاضر دانشجوی رشته مهندسی کامپیوتر در دانشگاه پیام نور و  همچنین طراح وبسایت هستم.
 + آدرس الکترونیکی: fatemehvakili7676@gmail.com
 + شهر محل سکونت: Tehran
