@@ -49,4 +49,4 @@
 [ارزیابی](/assest/FV_CV_CheckList_AR_3983.pdf)
 
 
-[رزومه فارسی](/resume-fa/)
+[رزومه فارسی](/resume-fa)
