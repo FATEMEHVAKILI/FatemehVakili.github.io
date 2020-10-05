@@ -20,6 +20,6 @@ layout: rtl
 نتورک پلاس
 </div>
 <div dir="rtl">
-ارزیابی رزومه
+ارزیابی رزومه:
 [ارزیابی](/assest/FV_CV_CheckList_AR_3983.pdf)
 </div>
