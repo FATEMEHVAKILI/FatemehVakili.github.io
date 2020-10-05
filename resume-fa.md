@@ -2,7 +2,7 @@
 layout: rtl
 ---
 <div dir="rtl">
-### FatemehVakili
+### فاطمه وکیلی
 ---<img src="pic.jpeg">
 </div>
 <div dir="rtl">
@@ -11,13 +11,18 @@ layout: rtl
 + شهر محل سکونت: تهران
 + وضعیت تاهل: مجرد
 </div>
+<div dir="rtl">
 ### عناوین
 ---
 + دبیر انجمن علمی مهندسی دانشگاه پیام نور
-
+</div>
+<div dir="rtl">
 ### دوره های آموزشی وکارگاه ها
 ---
 + نتورک پلاس
+</div>
+<div dir="rtl">
 ### ارزیابی رزومه 
 ---
 [ارزیابی](/assest/FV_CV_CheckList_AR_3983.pdf)
+</div>
